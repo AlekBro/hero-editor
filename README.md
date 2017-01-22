@@ -20,3 +20,6 @@ rd .git /s /q
 rd e2e /s /q
 
 
+
+$ cd .vs/angular-tour-of-heroes/v14
+$ git rm --cached .suo
